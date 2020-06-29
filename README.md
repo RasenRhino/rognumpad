@@ -13,3 +13,4 @@ Todo:
 
  - Include all numbers (only 7 and 8  presently)
  - Functionality to enable and disable Numpad (working on `numlockact.py`)
+ - gitignore
