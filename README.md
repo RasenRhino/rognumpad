@@ -1,8 +1,7 @@
 
 # rog_numpad_gl531gu
 Touchpad drivers for rog strix gl531gu for integtrated numpad
-**How to use**
-*Install dependicies*
+
 
     pip3 install -r requirements.txt
    *To run it*
