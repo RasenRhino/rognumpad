@@ -10,6 +10,6 @@ for rog strix gl531gu for integtrated numpad
 
 Todo:
 
- - Include all numbers (1 not working)
+ - Include all numbers (5 not working)
  - Functionality to enable and disable Numpad without executing `numlockact.py`
 
