@@ -10,6 +10,6 @@ for rog strix gl531gu for integtrated numpad
 
 Todo:
 
- - Include all numbers (only 7 and 8  presently)
- - Functionality to enable and disable Numpad (working on `numlockact.py`)
- - gitignore
+ - Include all numbers (1 not working)
+ - Functionality to enable and disable Numpad without executing `numlockact.py`
+
